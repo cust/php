@@ -1,3 +1,6 @@
 #eclipse
 RemoteSystemsTempFiles
 .metadata
+.buildpath
+.project
+.settings
