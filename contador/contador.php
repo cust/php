@@ -9,7 +9,7 @@
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
 
 		<!-- jQuery -->
-		<script src="jquery.js"></script>
+		<script src="jquery/jquery-1.10.2.min.js"></script>
 
 		<!-- Plugins compilados do Bootstrap -->
 		<script src="bootstrap/js/bootstrap.min.js"></script>
@@ -105,7 +105,7 @@
 				}
 				
 				// Solicita contagem total
-				lJqxhr = $.get("ContagemTotal.php?acao=3", function (pResposta) {
+				lJqxhr = $.get("ContagemTotal.php", function (pResposta) {
 					// Variáveis locais
 					var llContagem = 0;
 					
