@@ -1,0 +1,1 @@
+[{"codigo":"8","descricao":"Sabado"},{"codigo":"9","descricao":"Domingo"},{"codigo":"10","descricao":"seg portaria"},{"codigo":"11","descricao":" portaria"},{"codigo":"12","descricao":" portaria"},{"codigo":"13","descricao":" portaria"}]
