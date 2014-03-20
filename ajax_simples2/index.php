@@ -38,3 +38,4 @@ function procesarEventos() {
 <div id="resultado"></div>
 </body>
 </html>
+<!--  fonte: http://www.elcodigofuente.com/ejemplo-basico-de-ajax-get-830/  -->
