@@ -44,3 +44,4 @@
    </div>
  </body>
 </html>
+<!-- Fonte: http://eduardo.homelinux.net/ajax/Ajax002.html -->

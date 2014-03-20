@@ -44,7 +44,6 @@
     Compra en nuestra tienda
    </div>
   </div>
-<br><br><br><br>
-Fonte: http://eduardo.homelinux.net/ajax/Ajax001.html
  </body>
 </html>
+<!-- Fonte: http://eduardo.homelinux.net/ajax/Ajax001.html -->
