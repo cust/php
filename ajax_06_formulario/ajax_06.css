@@ -1,0 +1,63 @@
+
+
+html,body {
+    font-family: Verdana,Arial,Sans-serif;
+  }
+
+
+h1 {
+    text-align : center;
+  }
+
+
+p {
+    text-indent: 2em;
+  }
+
+
+img#ImagenI {
+    float : left;
+    margin-right : 20px;
+    margin-left : 20px;
+    margin-top : 20px;
+  }
+
+
+img#ImagenD {
+    float : right;
+    margin-right : 20px;
+    margin-left : 20px;
+    margin-top : 20px;
+  }
+
+
+div#Principal {
+    color : #a81f1f;
+    background-color : #f2e2ce;
+    height : 550px;
+    width : 750px;
+  }
+
+
+div#Datos {
+    float : left;
+    margin-top : 0px;
+  }
+
+
+div#Final {
+    margin-top : 400px;
+    text-align : center;
+  }
+
+
+select {
+    background-color : #fff3e4;
+    border-bottom-style : inset;
+    border-left-style : inset;
+    border-right-style : inset;
+    border-top-style : inset;
+    color : #d91b14;
+    font-size : 1.2em;
+  }
+
