@@ -1,0 +1,7 @@
+<!-- Este fichero será el nodo raiz -->
+<temas>
+<tema id="1">Informática</tema>
+<tema id="2">Literatura</tema>
+<tema id="3">Historia</tema>
+<tema id="4">Geografía</tema>
+</temas>
