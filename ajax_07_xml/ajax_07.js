@@ -30,7 +30,7 @@ function CreaXHR()
 function muestraTitulo(isbn) 
  {
  // componemos el nombre del archivo XML
- var idLibro = 'Ajax006' + isbn + '.xml';
+ var idLibro = 'ajax_07' + isbn + '.xml';
  var objXML = CreaXHR();
  
  // Eliminamos datos de un libro anterior
