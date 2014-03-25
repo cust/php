@@ -1,0 +1,14 @@
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.11.2-rc1
+- http://www.phpmyadmin.net
+-
+- Servidor: localhost
+- Tiempo de generación: 04-12-2008 a las 10:53:44
+- Versión del servidor: 5.0.51
+- Versión de PHP: 5.2.5
+--><!--
+- Base de datos: 'academia'
+--><academia><!-- Tabla Libros -->
+<Libros><isbn>111111111</isbn><titulo>La biblia de C</titulo><genero>informatica</genero><autor>Pere del Valle</autor><fecha>2008-12-04</fecha><editorial>Anaya</editorial></Libros><Libros><isbn>222222222</isbn><titulo>Manual de Java</titulo><genero>informatica</genero><autor>Pere de la Montaña</autor><fecha>2008-12-05</fecha><editorial>Grijalbo</editorial></Libros><Libros><isbn>333333333</isbn><titulo>Historia de O</titulo><genero>erotico</genero><autor>Marques de Sade</autor><fecha>2008-12-01</fecha><editorial>Santillana</editorial></Libros><Libros><isbn>444444444</isbn><titulo>Biblia de Linux</titulo><genero>informatica</genero><autor>Borrass</autor><fecha>2008-12-16</fecha><editorial>Santillana</editorial></Libros><Libros><isbn>555555555</isbn><titulo>La novia de Frankenstein</titulo><genero>erotico</genero><autor>Frank Enstein</autor><fecha>2008-12-20</fecha><editorial>Grijalbo</editorial></Libros></academia>
